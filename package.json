@@ -1,6 +1,6 @@
 {
-  "name": "@dagrejs/graphlib",
-  "version": "2.2.5-pre",
+  "name": "graphalgo",
+  "version": "2.2.6",
   "description": "A directed and undirected multi-graph library",
   "author": "Chris Pettitt <cpettitt@gmail.com>",
   "license": "MIT",
@@ -45,6 +45,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/dagrejs/graphlib.git"
+    "url": "https://github.com/johns92/graphalgo.git"
   }
 }
